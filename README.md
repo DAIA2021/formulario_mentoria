@@ -5,7 +5,7 @@ Css
 Figma
 Utilização de input 
 tipo 
-text
-date email
-password 
+text,
+date, email,
+password, 
 submit.
